@@ -9,5 +9,6 @@ gem 'rest-client'
 gem 'rspec'
 gem 'rubocop'
 gem 'sqlite3', '~> 1.7.3'
+gem 'faker'
 
 gem 'logger', '~> 1.6'
